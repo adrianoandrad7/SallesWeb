@@ -10,6 +10,6 @@ Aplicação web contendo 3 telas: Departamentos, Vendedores e Vendas.
 
 Departamentos : Contendo a lista de departamentos da loja com função para criação de novos, edição e delete.
 
-Vendedores : Contendo a lista de Vendedores com a função de criação de novos , edição e delete.
+Vendedores : Contendo a lista de Vendedores com a função de criação, edição e delete.
 
 Vendas : Contento relatórios de vendas com a função de pesquisa por periodo e agregação por departamento.
